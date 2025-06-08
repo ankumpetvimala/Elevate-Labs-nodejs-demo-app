@@ -20,7 +20,20 @@ This repository contains my solution for **DevOps Internship Task 1: Automating 
    - Builds a new Docker image
    - Tags it as `latest`
    - Pushes it to DockerHub at:  
-     📦 `pravalika27/nodejs-demo-app:latest`
+      `ankumpetavimala/nodejs-demo-app:latest`
+
+##  Files
+ 
+ app.js: The Node.js application.
+ Dockerfile: Docker configuration.
+ .github/workflows/main.yml: CI/CD pipeline.
+
+##  How to Test
+ Run this on any machine with Docker:
+
+docker pull ankumpetavimala/nodejs-demo-app:latest
+docker run -d -p 3000:3000 ankumpetavimala/nodejs-demo-app:latest
+     
 
 ---
 
