@@ -1,10 +1,10 @@
-# 🚀 Node.js CI/CD Task
+#  Node.js CI/CD Task
 
 This repository contains my solution for **DevOps Internship Task 1: Automating the deployment of a Node.js application using GitHub Actions**.
 
 ---
 
-## ✅ What I Did
+## What I Did
 
 - Created a basic **Node.js** app (`app.js`)
 - Wrote a **Dockerfile** to containerize the app
@@ -13,7 +13,7 @@ This repository contains my solution for **DevOps Internship Task 1: Automating 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Push any changes to the `main` branch.
 2. GitHub Actions automatically:
