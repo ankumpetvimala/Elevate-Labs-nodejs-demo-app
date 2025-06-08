@@ -1,4 +1,4 @@
-#  Node.js CI/CD Task
+# Elevate-Labs Task1:  Node.js CI/CD Task
 
 This repository contains my solution for 
 **DevOps Internship Task 1: Automating the deployment of a Node.js application using GitHub Actions**.
